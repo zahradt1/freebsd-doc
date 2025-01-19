@@ -147,6 +147,11 @@ The XDG_RUNTIME_DIR environment variable could be configured to use [.filename]#
 Consider that scenario when reviewing the configuration examples in the following sections.
 ====
 
+[WARNING]
+====
+If you encounter fonts not showing up in sway or the wf-panel process crashing with error `Truncating shared memory file failed: Invalid argument` or `Unable to create Cairo image surface: invalid value (typically too big) for the size of the input (surface, pattern, etc.)` the expected font package is missing. Install the `freefont-ttf` package by using the command `pkg install freefont-ttf`.
+====
+
 The seatd daemon helps manage access to shared system devices for non-root users in compositors; this includes graphics cards.
 For traditional X11 managers, `seatd` is not needed, such as both Plasma and GNOME, but for the Wayland compositors discussed here, it will need enabled on the system and be running before starting a compositor environment.
 To enable and start the `seatd` daemon now, and on system initialization:
