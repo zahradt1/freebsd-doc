@@ -5,7 +5,8 @@ prev: books/handbook/audit
 next: books/handbook/geom
 showBookMenu: true
 weight: 21
-path: "/books/handbook/disks/"
+params:
+  path: "/books/handbook/disks/"
 ---
 
 [[disks]]
@@ -69,7 +70,7 @@ endif::[]
 
 * Узнать как настраивать и устанавливать новое ядро FreeBSD (crossref:kernelconfig[kernelconfig, Настройка ядра FreeBSD]).
 
-[[disks-naming]]
+[[disk-naming]]
 == Имена устройств
 
 Далее приводится список физических устройств хранения информации, которые поддерживаются во FreeBSD, и имена устройств, которые им соответствуют.

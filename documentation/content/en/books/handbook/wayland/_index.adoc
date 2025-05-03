@@ -7,7 +7,8 @@ description: This chapter describes how to install and configure Wayland and com
 tags: ["Wayland", "XWayland", "KDE", "Plasma", "Xfce", "Gnome", "Intel", "AMD", "NVIDIA", "Wayfire", "Sway", "Hikari"]
 showBookMenu: true
 weight: 8
-path: "/books/handbook/wayland/"
+params:
+  path: "/books/handbook/wayland/"
 ---
 
 [[wayland]]
@@ -465,7 +466,7 @@ If the [.filename]#/usr/local/bin/Xwayland# file does not exist, install it usin
 
 [source,shell]
 ----
-# pkg install xwayland-devel
+# pkg install xwayland
 ----
 
 [NOTE]

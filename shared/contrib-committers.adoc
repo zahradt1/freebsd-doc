@@ -116,7 +116,6 @@
 * {grembo}
 * {trociny}
 * {danilo}
-* {dmgk}
 * {sg}
 * {grehan}
 * {rgrimes}
@@ -159,7 +158,6 @@
 * {kan}
 * {bjk}
 * {phk}
-* {karels}
 * {pkelsey}
 * {yasu}
 * {pkubaj}
@@ -308,12 +306,12 @@
 * {matthew}
 * {tmseck}
 * {stas}
-* {hselasky}
 * {lev}
 * {phil}
 * {gshapiro}
 * {syrinx}
 * {vanilla}
+* {ashafer}
 * {ashish}
 * {asiciliano}
 * {silby}
@@ -378,6 +376,7 @@
 * {nwhitehorn}
 * {bwidawsk}
 * {rew}
+* {ivy}
 * {def}
 * {mw}
 * {wollman}

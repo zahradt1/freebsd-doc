@@ -1,6 +1,44 @@
 # Sort news by year, month and day
 # $FreeBSD$
 [[news]]
+date = "2025-03-11"
+title = "FreeBSD 13.5-RELEASE 發布了"
+description = "<a href=\"https://www.FreeBSD.org/releases/13.5R/announce/\">FreeBSD 13.5-RELEASE</a>現已發布了。安裝前，請查看 <a href=\"https://www.FreeBSD.org/releases/13.5R/relnotes/\">發布通知</a>和 <a href=\"https://www.FreeBSD.org/releases/13.5R/errata/\">發行勘誤</a>以了解 13.5 的最新消息和問題。更多資訊可查看 <a href=\"https://www.FreeBSD.org/releases/\">發行版資訊</a>頁面。"
+
+[[news]]
+date = "2025-03-02"
+title = "FreeBSD 13.5-RC1 發布了"
+description = "FreeBSD 13.5的第一個候選發布版本現已發布。用於 amd64、i386、powerpc、powerpc64、powerpc64le、powerpcspe、armv6、armv7、aarch64和 riscv64 的 ISO 映像檔案已經 <a href=\"https://lists.freebsd.org/archives/freebsd-stable/2025-February/002719.html\">發布</a>，可以在多數的 <a href=\"https://docs.freebsd.org/en/books/handbook/mirrors/#mirrors-ftp\">FreeBSD 鏡像站</a>取得。"
+
+[[news]]
+date= "2025-02-27"
+title = "2024 第四季開發進度報告發布"
+description = "<a href=\"https://www.freebsd.org/status/report-2024-10-2024-12/\">2024 第四季開發進度報告發布</a> 44則條目現已發布。"
+
+[[news]]
+date = "2025-02-22"
+title = "FreeBSD 13.5-BETA3 發布了"
+description = "FreeBSD 13.5 的第三個 BETA 版本現已發布。用於 amd64、i386、powerpc、powerpc64、powerpc64le、powerpcspe、armv6、armv7、aarch64和 riscv64 的 ISO 映像檔案已經 <a href=\"https://lists.freebsd.org/archives/freebsd-stable/2025-February/002715.html\">發布</a>，可以在多數的 <a href=\"https://docs.freebsd.org/en/books/handbook/mirrors/#mirrors-ftp\">FreeBSD 鏡像站</a>取得。"
+
+[[news]]
+date = "2025-02-14"
+title = "FreeBSD 13.5-BETA2 發布了"
+description = "FreeBSD 13.5 的第二個 BETA 版本現已發布。用於 amd64、i386、powerpc、powerpc64、powerpc64le、powerpcspe、armv6、armv7、aarch64和 riscv64 的 ISO 映像檔案已經 <a href=\"https://lists.freebsd.org/archives/freebsd-stable/2025-February/002714.html\">發布</a>，可以在多數的 <a href=\"https://docs.freebsd.org/en/books/handbook/mirrors/#mirrors-ftp\">FreeBSD 鏡像站</a>取得。"
+
+[[news]]
+date = "2025-02-07"
+title = "FreeBSD 13.5-BETA1 發布了"
+description = "FreeBSD 13.5 的第一個 BETA 版本現已發布。用於 amd64、i386、powerpc、powerpc64、powerpc64le、powerpcspe、armv6、armv7、aarch64和 riscv64 的 ISO 映像檔案已經 <a href=\"https://lists.freebsd.org/archives/freebsd-stable/2025-February/002708.html\">發布</a>，可以在多數的 <a href=\"https://docs.freebsd.org/en/books/handbook/mirrors/#mirrors-ftp\">FreeBSD 鏡像站</a>取得。"
+
+[[news]]
+date = "2025-01-26"
+description = "新任 committer: <a href=\"mailto:ashafer@FreeBSD.org\">Austin Shafer</a> (ports)"
+
+[[news]]
+date = "2025-01-17"
+description = "新任 committer: <a href=\"mailto:ziaee@FreeBSD.org\">Alexander Ziaee</a> (doc)"
+
+[[news]]
 date = "2024-12-03"
 title = "FreeBSD 14.2-RELEASE 發布了"
 description = "<a href=\"https://www.FreeBSD.org/releases/14.2R/announce/\">FreeBSD 14.2-RELEASE</a>現已發布了。安裝前，請查看 <a href=\"https://www.FreeBSD.org/releases/14.2R/relnotes/\">發布通知</a>和 <a href=\"https://www.FreeBSD.org/releases/14.2R/errata/\">發行勘誤</a>以了解 14.2 的最新消息和問題。更多資訊可查看 <a href=\"https://www.FreeBSD.org/releases/\">發行版資訊</a>頁面。"
@@ -23,7 +61,7 @@ description = "FreeBSD 14.2 的第二個 BETA 版本現已發布。用於 amd64�
 [[news]]
 date= "2024-11-07"
 title = "2024 第三季開發進度報告發布"
-description = "The <a href=\"https://www.freebsd.org/status/report-2024-07-2024-09/\">2024 第三季開發進度報告發布</a> 32則條目現已發布。"
+description = "<a href=\"https://www.freebsd.org/status/report-2024-07-2024-09/\">2024 第三季開發進度報告發布</a> 32則條目現已發布。"
 
 [[news]]
 date = "2024-11-02"
@@ -65,7 +103,7 @@ description = "新任 committer: <a href=\"mailto:igoro@FreeBSD.org\">Igor Ostap
 [[news]]
 date= "2024-08-19"
 title = "2024 第二季開發進度報告發布"
-description = "The <a href=\"https://www.freebsd.org/status/report-2024-04-2024-06/\">2024 第二季開發進度報告發布</a> 20則條目現已發布。"
+description = "<a href=\"https://www.freebsd.org/status/report-2024-04-2024-06/\">2024 第二季開發進度報告發布</a> 20則條目現已發布。"
 
 [[news]]
 date = "2024-08-17"
@@ -95,7 +133,7 @@ description = "<a href=\"https://www.FreeBSD.org/releases/14.1R/announce/\">Free
 [[news]]
 date= "2024-05-03"
 title = "2024 第一季開發進度報告發布"
-description = "The <a href=\"https://www.freebsd.org/status/report-2024-01-2024-03/\">2024 第一季開發進度報告發布</a> 21則條目現已發布。"
+description = "<a href=\"https://www.freebsd.org/status/report-2024-01-2024-03/\">2024 第一季開發進度報告發布</a> 21則條目現已發布。"
 
 [[news]]
 date = "2024-03-05"

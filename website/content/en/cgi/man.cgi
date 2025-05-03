@@ -119,6 +119,47 @@ $sectionpath = {
 
     'IRIX 6.5.30' => { 'path' => '1:1m:2:3:3c:3dm:3n:3x:4:5:7:9' },
 
+
+    'OpenIndiana 2024.10'  => {
+        'path' =>
+'1:1m:1s:1t:2:3:3c:3malloc:3nsl:3socket:3ldap:3resolv:3rpc:3sip:3slp:3proc:3c_db:3elf:3kvm:3kstat:3m:3mp:3mvec:3pam:3bsm:3tsol:3contract:3cpc:3sec:3secdb:3cfgadm:3devid:3devinfo:3lib:3nvpair:7:7d:7i:9:9e:9f:9p:9s:4:5:3gen:3exacct:3stmf:3sysevent:3uuid:3volmgt:3mail:3ext:3fstyp:3picl:3picltree:3pool:3project:3perl:3lgrp:3sasl:3scf:3tecla:3mpapi:3fcoe:3xnet:3curses:3xcurses:3dlpi:3dns_sd:3gss:3tcl:3tk:8:1openssl:3openssl:5openssl:7openssl'
+    },
+
+    'OpenIndiana 2022.10'  => {
+        'path' =>
+'1:1m:1s:1t:2:3:3c:3malloc:3nsl:3socket:3ldap:3resolv:3rpc:3sip:3slp:3proc:3c_db:3elf:3kvm:3kstat:3m:3mp:3mvec:3pam:3bsm:3tsol:3contract:3cpc:3sec:3secdb:3cfgadm:3devid:3devinfo:3lib:3nvpair:7:7d:7i:9:9e:9f:9p:9s:4:5:3gen:3exacct:3stmf:3sysevent:3uuid:3volmgt:3mail:3ext:3fstyp:3picl:3picltree:3pool:3project:3perl:3lgrp:3sasl:3scf:3tecla:3mpapi:3fcoe:3xnet:3curses:3xcurses:3dlpi:3dns_sd:3gss:3tcl:3tk:8:1openssl:3openssl:5openssl:7openssl'
+    },
+
+    'OpenIndiana 2020.10'  => {
+        'path' =>
+'1:1m:1s:1t:2:3:3c:3malloc:3nsl:3socket:3ldap:3resolv:3rpc:3sip:3slp:3proc:3c_db:3elf:3kvm:3kstat:3m:3mp:3mvec:3pam:3bsm:3tsol:3contract:3cpc:3sec:3secdb:3cfgadm:3devid:3devinfo:3lib:3nvpair:7:7d:7fs:7i:7m:7p:9:9e:9f:9p:9s:4:5:3gen:3exacct:3stmf:3sysevent:3uuid:3volmgt:3mail:3ext:3fstyp:3picl:3picltree:3pool:3project:3perl:3lgrp:3sasl:3scf:3tecla:3mpapi:3fcoe:3xnet:3curses:3xcurses:3dlpi:3dns_sd:3gss:3tiff:3tcl:3tk:8:1openssl:3openssl:5openssl:7openssl'
+    },
+
+    'OpenIndiana 2017.10'  => {
+        'path' =>
+'1:1m:1s:1t:2:3:3c:3malloc:3nsl:3socket:3ldap:3resolv:3rpc:3sip:3slp:3proc:3c_db:3elf:3kvm:3kstat:3m:3mp:3mvec:3pam:3bsm:3tsol:3contract:3cpc:3sec:3secdb:3cfgadm:3devid:3devinfo:3lib:3nvpair:7:7d:7fs:7i:7m:7p:9:9e:9f:9p:9s:4:5:3gen:3exacct:3stmf:3sysevent:3uuid:3volmgt:3mail:3ext:3fstyp:3picl:3picltree:3pool:3project:3perl:3lgrp:3sasl:3scf:3tecla:3mpapi:3fcoe:3xnet:3curses:3xcurses:3dlpi:3dns_sd:3gss:3tiff:3tcl:3tk:8:1openssl:3openssl:5openssl:7openssl'
+    },
+
+    'OpenIndiana 2015.10'  => {
+        'path' =>
+'1:1m:1s:1t:2:3:3c:3malloc:3nsl:3socket:3ldap:3resolv:3rpc:3sip:3slp:3proc:3c_db:3elf:3kvm:3kstat:3m:3mp:3mvec:3pam:3papi:3bsm:3tsol:3contract:3cpc:3sec:3secdb:3cfgadm:3devid:3devinfo:3lib:3nvpair:7:7d:7fs:7i:7m:7p:9:9e:9f:9p:9s:4:5:3gen:3exacct:3stmf:3sysevent:3uuid:3volmgt:3mail:3ext:3fstyp:3picl:3picltree:3pool:3project:3perl:3lgrp:3sasl:3scf:3tecla:3mpapi:3fcoe:3xnet:3curses:3xcurses:3dlpi:3dns_sd:3gss:3tiff:3tcl:3tk:8:1openssl:3openssl:5openssl:7openssl'
+    },
+
+    'OpenIndiana 2013.08'  => {
+        'path' =>
+'1:1m:1t:2:3:3c:3malloc:3nsl:3socket:3ldap:3resolv:3rpc:3sip:3slp:3proc:3c_db:3elf:3kvm:3kstat:3mp:3pam:3papi:3bsm:3tsol:3contract:3cpc:3sec:3secdb:3cfgadm:3devid:3devinfo:3lib:3nvpair:7:7d:7fs:7i:7m:7p:9:9e:9f:9p:9s:4:5:3gen:3exacct:3stmf:3sysevent:3uuid:3volmgt:3mail:3ext:3fstyp:3picl:3picltree:3pool:3project:3perl:3lgrp:3sasl:3scf:3tecla:3mpapi:3fcoe:3xnet:3curses:3xcurses:3dlpi:3dns_sd:3gss:3tiff:3tcl:3tk:8:1openssl:3openssl:5openssl:7openssl'
+    },
+
+    'OpenSolaris 2010.03'  => {
+        'path' =>
+'1:1m:1s:1as:1t:2:3:3c:3malloc:3nsl:3socket:3ldap:3nisdb:3resolv:3rpc:3sip:3slp:3proc:3c_db:3elf:3kvm:3kstat:3m:3mp:3mvec:3pam:3papi:3bsm:3tsol:3contract:3cpc:3sec:3secdb:3cfgadm:3crypt:3devid:3devinfo:3lib:3head:3nvpair:3rsm:7:7d:7fs:7i:7ipp:7m:7p:9:9e:9f:9p:9s:4:5:4b:3gen:3exacct:3stmf:3iscsit:3sysevent:3uuid:3wsreg:3reparse:3dmi:3snmp:3tnf:3volmgt:3mail:3layout:3ext:3fm:3fstyp:3picl:3picltree:3pool:3project:3perl:3lgrp:3sasl:3scf:3dat:3hbaapi:3tecla:3mpapi:3fcoe:1b:1c:1f:3xnet:3curses:3plot:3xcurses:3dlpi:3dns_sd:3gss:6:3tiff:3fontconfig:3tcl:3tk:3xtsol:3mms:3mlib:3c++:3cc4:3f:3p:3pi:3rtc:8:1erl:3erl:4erl:1openssl:3openssl:5openssl:7openssl:l:n',
+    },
+
+    'OpenSolaris 2009.06'  => {
+        'path' =>
+'1:1m:1s:1as:1t:2:3:3c:3malloc:3nsl:3socket:3ldap:3nisdb:3resolv:3rpc:3sip:3slp:3proc:3c_db:3elf:3kvm:3kstat:3m:3mp:3mvec:3pam:3papi:3bsm:3tsol:3contract:3cpc:3sec:3secdb:3smartcard:3cfgadm:3crypt:3devid:3devinfo:3lib:3libucb:3head:3nvpair:3rsm:7:7d:7fs:7i:7ipp:7m:7p:9:9e:9f:9p:9s:4:5:4b:3gen:3exacct:3stmf:3iscsit:3sysevent:3uuid:3wsreg:3dmi:3snmp:3tnf:3volmgt:3mail:3layout:3ext:3fstyp:3picl:3picltree:3pool:3project:3perl:3lgrp:3sasl:3scf:3dat:3hbaapi:3tecla:3mpapi:3commputil:1b:1c:1f:3ucb:3xnet:3curses:3plot:3xcurses:3dlpi:3dns_sd:3gss:6:3tiff:3fontconfig:3tcl:3tk:3xtsol:3mms:3mlib:3c++:3cc4:3f:3p:3pi:3rtc:8:1erl:3erl:4erl:1openssl:3openssl:5openssl:7openssl:l:n',
+    },
+
     'SunOS 5.10'  => {
         'path' =>
 '1:1m:1s:1as:2:3:3c:3malloc:3nsl:3socket:3ldap:3nisdb:3rac:3resolv:3rpc:3slp:3proc:3rt:3c_db:3elf:3kvm:3kstat:3m:3mp:3mvec:3pam:3aio:3bsm:3tsol:3contract:3cpc:3sec:3secdb:3smartcard:3cfgadm:3crypt:3devid:3devinfo:3door:3lib:3libucb:3head:3nvpair:3rsm:7:7d:7fs:7i:7ipp:7m:7p:9:9e:9f:9p:9s:4:5:4b:3gen:3exacct:3sysevent:3uuid:3wsreg:3dmi:3snmp:3tnf:3volmgt:3mail:3layout:3ext:3picl:3picltree:3pool:3project:3perl:3lgrp:3sasl:3scf:3dat:3hbaapi:3tecla:1b:1c:1f:3ucb:3xnet:3curses:3plot:3xcurses:3gss:6:3tiff:3fontconfig:3mlib:l:n',
@@ -190,6 +231,7 @@ $sectionpath = {
     'OpenBSD 7.4' => { 'path' => '1:2:3:3p:4:5:6:7:8:9', },
     'OpenBSD 7.5' => { 'path' => '1:2:3:3p:4:5:6:7:8:9', },
     'OpenBSD 7.6' => { 'path' => '1:2:3:3p:4:5:6:7:8:9', },
+    'OpenBSD 7.7' => { 'path' => '1:2:3:3p:4:5:6:7:8:9', },
 
     'CentOS 3.9' => { 'path' => '1:2:3:3p:4:5:6:7:8:9:n', },
     'CentOS 4.8' => { 'path' => '1:1p:2:3:3p:4:5:6:7:8:9:n:0p', },
@@ -322,6 +364,8 @@ $manPathDefault = 'FreeBSD 14.2-RELEASE and Ports';
     'FreeBSD 14.0-RELEASE and Ports',
 "$manLocalDir/FreeBSD-14.0-RELEASE/man:$manLocalDir/FreeBSD-14.0-RELEASE/openssl/man:$manLocalDir/FreeBSD-ports-14.0-RELEASE/man:$manLocalDir/FreeBSD-ports-14.0-RELEASE/misc",
 
+    'FreeBSD 13.5-RELEASE and Ports',
+"$manLocalDir/FreeBSD-13.5-RELEASE/man:$manLocalDir/FreeBSD-13.5-RELEASE/openssl/man:$manLocalDir/FreeBSD-ports-13.5-RELEASE/man:$manLocalDir/FreeBSD-ports-13.5-RELEASE/misc",
     'FreeBSD 13.4-RELEASE and Ports',
 "$manLocalDir/FreeBSD-13.4-RELEASE/man:$manLocalDir/FreeBSD-13.4-RELEASE/openssl/man:$manLocalDir/FreeBSD-ports-13.4-RELEASE/man:$manLocalDir/FreeBSD-ports-13.4-RELEASE/misc",
     'FreeBSD 13.3-RELEASE and Ports',
@@ -400,8 +444,10 @@ $manPathDefault = 'FreeBSD 14.2-RELEASE and Ports';
     'FreeBSD 14.0-RELEASE',
 "$manLocalDir/FreeBSD-14.0-RELEASE/man:$manLocalDir/FreeBSD-14.0-RELEASE/openssl/man",
 
-    'FreeBSD 13.4-STABLE',
-"$manLocalDir/FreeBSD-13.4-STABLE/man:$manLocalDir/FreeBSD-13.4-STABLE/openssl/man",
+    'FreeBSD 13.5-STABLE',
+"$manLocalDir/FreeBSD-13.5-STABLE/man:$manLocalDir/FreeBSD-13.5-STABLE/openssl/man",
+    'FreeBSD 13.5-RELEASE',
+"$manLocalDir/FreeBSD-13.5-RELEASE/man:$manLocalDir/FreeBSD-13.5-RELEASE/openssl/man",
     'FreeBSD 13.4-RELEASE',
 "$manLocalDir/FreeBSD-13.4-RELEASE/man:$manLocalDir/FreeBSD-13.4-RELEASE/openssl/man",
     'FreeBSD 13.3-RELEASE',
@@ -527,6 +573,7 @@ $manPathDefault = 'FreeBSD 14.2-RELEASE and Ports';
     'FreeBSD Ports 13.2', "$manLocalDir/FreeBSD-ports-13.2-RELEASE/man:$manLocalDir/FreeBSD-ports-13.2-RELEASE/misc",
     'FreeBSD Ports 13.3', "$manLocalDir/FreeBSD-ports-13.3-RELEASE/man:$manLocalDir/FreeBSD-ports-13.3-RELEASE/misc",
     'FreeBSD Ports 13.4', "$manLocalDir/FreeBSD-ports-13.4-RELEASE/man:$manLocalDir/FreeBSD-ports-13.4-RELEASE/misc",
+    'FreeBSD Ports 13.5', "$manLocalDir/FreeBSD-ports-13.5-RELEASE/man:$manLocalDir/FreeBSD-ports-13.5-RELEASE/misc",
     'FreeBSD Ports 14.0', "$manLocalDir/FreeBSD-ports-14.0-RELEASE/man:$manLocalDir/FreeBSD-ports-14.0-RELEASE/misc",
     'FreeBSD Ports 14.1', "$manLocalDir/FreeBSD-ports-14.1-RELEASE/man:$manLocalDir/FreeBSD-ports-14.1-RELEASE/misc",
     'FreeBSD Ports 14.2', "$manLocalDir/FreeBSD-ports-14.2-RELEASE/man:$manLocalDir/FreeBSD-ports-14.2-RELEASE/misc",
@@ -704,6 +751,7 @@ $manPathDefault = 'FreeBSD 14.2-RELEASE and Ports';
     'OpenBSD 7.4', "$manLocalDir/OpenBSD-7.4",
     'OpenBSD 7.5', "$manLocalDir/OpenBSD-7.5",
     'OpenBSD 7.6', "$manLocalDir/OpenBSD-7.6",
+    'OpenBSD 7.7', "$manLocalDir/OpenBSD-7.7",
 
     #'NetBSD 0.9',            "$manLocalDir/NetBSD-0.9",
     'NetBSD 1.0',   "$manLocalDir/NetBSD-1.0",
@@ -745,6 +793,7 @@ $manPathDefault = 'FreeBSD 14.2-RELEASE and Ports';
     'NetBSD 9.1',   "$manLocalDir/NetBSD-9.1",
     'NetBSD 9.2',   "$manLocalDir/NetBSD-9.2",
     'NetBSD 9.3',   "$manLocalDir/NetBSD-9.3",
+    'NetBSD 9.4',   "$manLocalDir/NetBSD-9.4",
     'NetBSD 10.0',  "$manLocalDir/NetBSD-10.0",
     'NetBSD 10.1',  "$manLocalDir/NetBSD-10.1",
 
@@ -880,8 +929,7 @@ $manPathDefault = 'FreeBSD 14.2-RELEASE and Ports';
     'Debian 9.13.0', "$manLocalDir/Debian-9.13.0/man:$manLocalDir/Debian-9.13.0/misc",
     'Debian 10.13.0', "$manLocalDir/Debian-10.13.0/man:$manLocalDir/Debian-10.13.0/misc",
     'Debian 11.11.0', "$manLocalDir/Debian-11.11.0/man:$manLocalDir/Debian-11.11.0/misc",
-    'Debian 12.7.0', "$manLocalDir/Debian-12.7.0/man:$manLocalDir/Debian-12.7.0/misc",
-    'Debian 12.8.0', "$manLocalDir/Debian-12.8.0/man:$manLocalDir/Debian-12.8.0/misc",
+    'Debian 12.9.0', "$manLocalDir/Debian-12.9.0/man:$manLocalDir/Debian-12.9.0/misc",
     'Debian 13.0 unstable', "$manLocalDir/Debian-unstable/man:$manLocalDir/Debian-unstable/misc",
 
     'Ubuntu 23.10 mantic', "$manLocalDir/Ubuntu-mantic-23.10/man:$manLocalDir/Ubuntu-mantic-23.10/misc",
@@ -915,6 +963,16 @@ $manPathDefault = 'FreeBSD 14.2-RELEASE and Ports';
 
     'IRIX 6.5.30',  "$manLocalDir/IRIX-6.5.30/catman/a_man:$manLocalDir/IRIX-6.5.30/catman/p_man:$manLocalDir/IRIX-6.5.30/catman/u_man:$manLocalDir/IRIX-6.5.30/dt",
 
+    'OpenIndiana 2024.10',  "$manLocalDir/OpenIndiana-2024.10/share/man",
+    'OpenIndiana 2022.10',  "$manLocalDir/OpenIndiana-2022.10/share/man",
+    'OpenIndiana 2020.10',  "$manLocalDir/OpenIndiana-2020.10/share/man",
+    'OpenIndiana 2017.10',  "$manLocalDir/OpenIndiana-2017.10/share/man",
+    'OpenIndiana 2015.10',  "$manLocalDir/OpenIndiana-2015.10/share/man",
+    'OpenIndiana 2013.08',  "$manLocalDir/OpenIndiana-2013.08/share/man",
+
+    'OpenSolaris 2010.03',  "$manLocalDir/OpenSolaris-2010.03-snv_134/share/man:$manLocalDir/OpenSolaris-2010.03-snv_134/sfw/share/man",
+    'OpenSolaris 2009.06',  "$manLocalDir/OpenSolaris-2009.06-snv_111b/share/man:$manLocalDir/OpenSolaris-2009.06-snv_111b/sfw/share/man",
+
     'SunOS 5.10',  "$manLocalDir/SunOS-5.10",
     'SunOS 5.9',   "$manLocalDir/SunOS-5.9",
     'SunOS 5.8',   "$manLocalDir/SunOS-5.8",
@@ -928,11 +986,14 @@ $manPathDefault = 'FreeBSD 14.2-RELEASE and Ports';
     # alias SunOS 0.4, apparently released in April 1983 based on 4.2BSD beta
     'Sun UNIX 0.4', "$manLocalDir/Sun-UNIX-0.4",
 
-    'macOS 15.0',   "$manLocalDir/macOS-15.0/man:$manLocalDir/macOS-15.0/developer-man:$manLocalDir/macOS-15.0/developer-platform-sdk-man:$manLocalDir/macOS-15.0/xctoolchain-man",  
-    'macOS 14.3.1', "$manLocalDir/macOS-14.3.1/man:$manLocalDir/macOS-14.3.1/developer-man:$manLocalDir/macOS-14.3.1/developer-platform-man:$manLocalDir/macOS-14.3.1/developer-platform-sdk-man:$manLocalDir/macOS-14.3.1/xctoolchain-man",  
+    'macOS 15.4.1',   "$manLocalDir/macOS-15.4.1/man:$manLocalDir/macOS-15.4.1/developer-man:$manLocalDir/macOS-15.4.1/developer-platform-sdk-man:$manLocalDir/macOS-15.4.1/xctoolchain-man",  
+    'macOS 14.7.5', "$manLocalDir/macOS-14.7.5/man:$manLocalDir/macOS-14.7.5/developer-man:$manLocalDir/macOS-14.7.5/developer-platform-man:$manLocalDir/macOS-14.7.5/developer-platform-sdk-man:$manLocalDir/macOS-14.7.5/xctoolchain-man",  
     'macOS 13.6.5', "$manLocalDir/macOS-13.6.5/man:$manLocalDir/macOS-13.6.5/developer-man:$manLocalDir/macOS-13.6.5/developer-platform-man:$manLocalDir/macOS-13.6.5/developer-platform-sdk-man:$manLocalDir/macOS-13.6.5/xctoolchain-man",  
     'macOS 12.7.3', "$manLocalDir/macOS-12.7.3/man:$manLocalDir/macOS-12.7.3/developer-man:$manLocalDir/macOS-12.7.3/developer-platform-man:$manLocalDir/macOS-12.7.3/developer-platform-sdk-man:$manLocalDir/macOS-12.7.3/xctoolchain-man",
+    'macOS 11.1',    "$manLocalDir/macOS-11.1",
+    'macOS 10.15.0', "$manLocalDir/macOS-10.15.0",
     'macOS 10.13.6', "$manLocalDir/macOS-10.13.6",
+    'macOS 10.12.0', "$manLocalDir/macOS-10.12.0",
 
     #'XFree86 3.2',      "$manLocalDir/XFree86-3.2",
     'XFree86 2.1',      "$manLocalDir/XFree86-2.1",
@@ -1078,6 +1139,7 @@ my %arch = (
 'NetBSD 9.1' => { 'arch' => [qw/acorn26 acorn32 algor alpha amd64 amiga arc atari bebox cats cesfic cobalt dreamcast emips evbarm evbmips evbppc evbsh3 hp300 hpcarm hpcmips hpcsh hppa i386 ibmnws luna68k mac68k macppc mipsco mmeye mvme68k mvmeppc netwinder news68k newsmips next68k ofppc playstation2 pmax prep sandpoint sbmips sgimips shark sparc sparc64 sun2 sun3 vax x68k x86/] } ,
 'NetBSD 9.2' => { 'arch' => [qw/acorn26 acorn32 algor alpha amd64 amiga arc atari bebox cats cesfic cobalt dreamcast emips evbarm evbmips evbppc evbsh3 hp300 hpcarm hpcmips hpcsh hppa i386 ibmnws luna68k mac68k macppc mipsco mmeye mvme68k mvmeppc netwinder news68k newsmips next68k ofppc playstation2 pmax prep sandpoint sbmips sgimips shark sparc sparc64 sun2 sun3 vax x68k x86/] } ,
 'NetBSD 9.3' => { 'arch' => [qw/acorn26 acorn32 algor alpha amd64 amiga arc atari bebox cats cesfic cobalt dreamcast emips evbarm evbmips evbppc evbsh3 hp300 hpcarm hpcmips hpcsh hppa i386 ibmnws luna68k mac68k macppc mipsco mmeye mvme68k mvmeppc netwinder news68k newsmips next68k ofppc playstation2 pmax prep sandpoint sbmips sgimips shark sparc sparc64 sun2 sun3 vax x68k x86/] } ,
+'NetBSD 9.4' => { 'arch' => [qw/acorn26 acorn32 algor alpha amd64 amiga arc atari bebox cats cesfic cobalt dreamcast emips evbarm evbmips evbppc evbsh3 hp300 hpcarm hpcmips hpcsh hppa i386 ibmnws luna68k mac68k macppc mipsco mmeye mvme68k mvmeppc netwinder news68k newsmips next68k ofppc playstation2 pmax prep sandpoint sbmips sgimips shark sparc sparc64 sun2 sun3 vax x68k x86/] } ,
 'NetBSD 10.0' => { 'arch' => [qw/acorn26 acorn32 algor alpha amd64 amiga arc atari bebox cats cesfic cobalt dreamcast emips evbarm evbmips evbppc evbsh3 hp300 hpcarm hpcmips hpcsh hppa i386 ibmnws luna68k mac68k macppc mipsco mmeye mvme68k mvmeppc netwinder news68k newsmips next68k ofppc playstation2 pmax prep sandpoint sbmips sgimips shark sparc sparc64 sun2 sun3 vax x68k x86/] } ,
 'NetBSD 10.1' => { 'arch' => [qw/acorn26 acorn32 algor alpha amd64 amiga arc atari bebox cats cesfic cobalt dreamcast emips evbarm evbmips evbppc evbsh3 hp300 hpcarm hpcmips hpcsh hppa i386 ibmnws luna68k mac68k macppc mipsco mmeye mvme68k mvmeppc netwinder news68k newsmips next68k ofppc playstation2 pmax prep sandpoint sbmips sgimips shark sparc sparc64 sun2 sun3 vax x68k x86/] } ,
 'OpenBSD 4.7' => { 'arch' => [qw/alpha amd64 armish aviion hp300 hppa hppa64 i386 landisk loongson luna88k mac68k macppc mvme68k mvme88k mvmeppc palm sgi socppc sparc sparc64 vax zaurus/] }, 
@@ -1110,6 +1172,7 @@ my %arch = (
 'OpenBSD 7.4' => { 'arch' => [qw/alpha amd64 arm64 armv7 hppa i386 landisk loongson luna88k macppc octeon powerpc64 riscv64 sparc64/] }, 
 'OpenBSD 7.5' => { 'arch' => [qw/alpha amd64 arm64 armv7 hppa i386 landisk loongson luna88k macppc octeon powerpc64 riscv64 sparc64/] }, 
 'OpenBSD 7.6' => { 'arch' => [qw/alpha amd64 arm64 armv7 hppa i386 landisk loongson luna88k macppc octeon powerpc64 riscv64 sparc64/] }, 
+'OpenBSD 7.7' => { 'arch' => [qw/alpha amd64 arm64 armv7 hppa i386 landisk loongson luna88k macppc octeon powerpc64 riscv64 sparc64/] }, 
 );
 
 # delete not existing releases
@@ -1135,7 +1198,7 @@ while ( ( $key, $val ) = each %manPath ) {
 
     'freebsd-stable',   'FreeBSD 14.2-STABLE',
     'freebsd-stable14', 'FreeBSD 14.2-STABLE',
-    'freebsd-stable13', 'FreeBSD 13.4-STABLE',
+    'freebsd-stable13', 'FreeBSD 13.5-STABLE',
 
     'freebsd-current',       'FreeBSD 15.0-CURRENT',
     'freebsd-release-ports', 'FreeBSD 14.2-RELEASE and Ports',
@@ -1144,19 +1207,20 @@ while ( ( $key, $val ) = each %manPath ) {
     'slackware',  'Linux Slackware 3.1',
     'redhat',     'Red Hat 9',
     'suse',       'SuSE 11.3',
-    'debian',     'Debian 12.8.0',
+    'debian',     'Debian 12.9.0',
     'ubuntu',     'Ubuntu 24.04 noble',
     'dragonfly',  'DragonFly 6.4.0',
     'centos',     'CentOS 7.9',
     'rocky',      'Rocky 9.5',
-    'linux',      'Debian 12.8.0',
+    'linux',      'Debian 12.9.0',
     'darwin',     'Darwin 8.0.1/ppc',
     'opendarwin', 'OpenDarwin 7.2.1',
     'macosx',     'Darwin 8.0.1/ppc',
 
     'netbsd',        'NetBSD 10.1',
-    'openbsd',       'OpenBSD 7.6',
+    'openbsd',       'OpenBSD 7.7',
     'opensuse',      'openSUSE 15.6',
+    'openindiana',   'OpenIndiana 2024.10',
     'v7',            'Unix Seventh Edition',
     'v7man',         'Unix Seventh Edition',
     'x11',           'X11R7.4',
@@ -1168,7 +1232,7 @@ while ( ( $key, $val ) = each %manPath ) {
     'sunos5',        'SunOS 5.10',
     'sunos4',        'SunOS 4.1.3',
     'sunos',         'SunOS 4.1.3',
-    'macos',         'macOS 15.0',
+    'macos',         'macOS 15.4.1',
     'plan9',         'Plan 9',
     'osf1',          'OSF1 V5.1/alpha',
     'true64',        'OSF1 V5.1/alpha',
@@ -2350,12 +2414,12 @@ Copyright (c) 1993-1995 Berkeley Software Design, Inc.
 <p/>
 
 Copyright (c) for manual pages by OS vendors:
-<p/>
+<p>
 <a href="https://en.wikipedia.org/wiki/History_of_the_Berkeley_Software_Distribution">2.11 BSD</a>,
 <a href="https://www.apple.com">Apple</a>,
 <a href="https://www.centos.org">CentOS</a>,
-<a href="https://www.dell.com">Dell</a>,
 <a href="https://www.debian.org">Debian</a>,
+<a href="https://www.dell.com">Dell</a>,
 <a href="https://www.dragonflybsd.org">DragonFly BSD</a>,
 <a href="https://www.freebsd.org">FreeBSD</a>,
 <a href="https://www.hp.com">HP</a>,
@@ -2364,22 +2428,23 @@ Copyright (c) for manual pages by OS vendors:
 <a href="https://www.netbsd.org">NetBSD</a>,
 <a href="https://en.wikipedia.org/wiki/NeXTSTEP">NeXTSTEP</a>,
 <a href="https://www.openbsd.org">OpenBSD</a>,
-<a href="https://9p.io/plan9/">Plan 9</a>,
-<a href="https://www.redhat.com">Red Hat</a>,
-<a href="https://www.slackware.com">Slackware</a>,
+<a href="https://www.openindiana.org/">OpenIndiana</a>,
+<a href="https://en.wikipedia.org/wiki/OpenSolaris">OpenSolaris</a>,
+<a href="https://www.opensuse.org">openSUSE</a>,
 <a href="https://en.wikipedia.org/wiki/OSF/1">OSF</a>,
 <a href="https://9p.io/plan9/">Plan 9</a>,
+<a href="https://www.redhat.com">Red Hat</a>,
 <a href="https://en.wikipedia.org/wiki/Rhapsody_(operating_system)">Rhapsody</a>,
-<a href="https://www.oracle.com/solaris/technologies/">SunOS</a>,
-<a href="https://www.opensuse.org">openSUSE</a>,
 <a href="https://rockylinux.org/">Rocky</a>,
+<a href="https://www.slackware.com">Slackware</a>,
+<a href="https://en.wikipedia.org/wiki/SunOS">SunOS</a>,
 <a href="https://www.suse.com">SuSE</a>,
 <a href="https://ubuntu.com">Ubuntu</a>,
 <a href="https://en.wikipedia.org/wiki/Ultrix">ULTRIX</a>,
 <a href="https://en.wikipedia.org/wiki/Version_7_Unix">Unix Seventh Edition</a>,
-<a href="https://www.xfree86.org">XFree86</a>,
-<a href="https://www.x.org">X11R6</a>
-
+<a href="https://www.x.org">X11R6</a>,
+<a href="https://www.xfree86.org">XFree86</a>
+</p>
 
 <h2>Shortcuts for FreeBSD manual pages</h2>
 
